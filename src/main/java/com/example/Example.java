@@ -60,7 +60,8 @@ public class Example implements HttpFunction {
 				"By plucking her petals, you do not gather the beauty of the flower - Rabindranath Tagore",
 				"Depth of friendship does not depend on length of acquaintance  - Rabindranath Tagore",
 				"The world is the great gymnasium where we come to make ourselves strong - Swami Vivekananda",
-				"As cold water and warm iron take away the wrinkles of clothes. A cool mind and warm heart takes out the worries of life.", };
+				"As cold water and warm iron take away the wrinkles of clothes. A cool mind and warm heart takes out the worries of life.",
+				"Feeling are just visitors, let them come and go. Keep moving ahead", };
 
 		int index = (int) (Math.random() * quotes.length);
 		return quotes[index];
