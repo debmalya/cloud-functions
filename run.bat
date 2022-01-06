@@ -1,1 +1,1 @@
-mvn function:run
+mvn compile function:run
