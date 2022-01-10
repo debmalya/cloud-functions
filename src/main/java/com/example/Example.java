@@ -62,7 +62,9 @@ public class Example implements HttpFunction {
 				"The world is the great gymnasium where we come to make ourselves strong - Swami Vivekananda",
 				"As cold water and warm iron take away the wrinkles of clothes. A cool mind and warm heart takes out the worries of life.",
 				"Feeling are just visitors, let them come and go. Keep moving ahead",
-                "Togetherness teaches us what is love, Loneliness teaches us what is life."	};
+                "Togetherness teaches us what is love, Loneliness teaches us what is life.",
+                "A peaceful mind can think better than an exhausted mind. Allow a few minutes of silence to the mind everyday & see how it shapes your life.", "Mind seems more difficult to control than the wind. With practice and detachment get the success."
+				};
 
 		int index = (int) (Math.random() * quotes.length);
 		return quotes[index];
