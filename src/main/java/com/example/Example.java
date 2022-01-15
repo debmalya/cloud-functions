@@ -97,9 +97,11 @@ public class Example implements HttpFunction {
 				"It becomes difficult to live your life if you still have guilt on your part and are anxious about the future.",
 				"The past is history and the future hasn’t happened yet. It’s better to hold dear to the memories and be excited about the future.",
 				"The only way you will ever be able to enjoy your life fully is when you let go of what no longer serves you and enjoy your life at the present moment and think less of the future.",
-				"The only thing happening now is in the present moment and that’s all you will ever have. Life becomes so vibrant when you meditate at the moment, it’s as if you’re living again since childhood where you had no responsibilities. Isn’t it wonderful?"
+				"The only thing happening now is in the present moment and that’s all you will ever have. Life becomes so vibrant when you meditate at the moment, it’s as if you’re living again since childhood where you had no responsibilities. Isn’t it wonderful?",
 				"Set yourself up for a daily meditation every day and write it down all the inspirations you get from it after the meditation session has ended.",
 				"Be aware of all the sounds, music, and colors around you. Try to sit on a bench and observe the view of nature in front of you… in silence.",
+				"Find beauty and blessings in all the things you have right now and you will find out that you’re richer than you think.",
+				"There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
 		};
 
 		int index = (int) (Math.random() * quotes.length);
