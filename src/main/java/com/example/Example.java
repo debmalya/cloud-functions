@@ -125,6 +125,8 @@ public class Example implements HttpFunction {
 				"Surrender to the harsh truth, no matter how much it hurts your ego, when you do it, you will set yourself free from the lie you have lived in.",
 				"Write down a list of what makes you special and you will be reminded of how worthy you are in this world.",
 				"Never let the ignorance of this world stop you from following your heart and what feels right for you. Listen to the inner voice inside you.Your intuition knows what’s best for you.",
+				"Heart is the only machine that works without any rest for years. Keep it always happy, whether it is 'yours' or 'others'.",
+				"If you want something you never had. You have to do something you've never done."
 				
 		};
 
