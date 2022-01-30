@@ -128,7 +128,11 @@ public class Example implements HttpFunction {
 				"Heart is the only machine that works without any rest for years. Keep it always happy, whether it is 'yours' or 'others'.",
 				"If you want something you never had. You have to do something you've never done.",
 				"Nothing ever comes to me, that is worth having, except as the result of hard work. - Booker T. Washington",
-				"Best graduation degree in life is B.Calm",			
+				"Best graduation degree in life is B.Calm",
+                "We do not grow when things are easy. We grow when we face challenge",
+                "Ups and downs in life are very important to keep us going, because a straight line even in an E.C.G. means we are not alive.",	
+                "Speak in such a way that others love to listen you. Listen in such a way that others love to speak to you.",
+				"If you want to destroy something. Destroy your negative thinking",	
 		};
 
 		int index = (int) (Math.random() * quotes.length);
