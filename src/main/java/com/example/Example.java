@@ -133,6 +133,7 @@ public class Example implements HttpFunction {
                 "Ups and downs in life are very important to keep us going, because a straight line even in an E.C.G. means we are not alive.",	
                 "Speak in such a way that others love to listen you. Listen in such a way that others love to speak to you.",
 				"If you want to destroy something. Destroy your negative thinking",	
+				"Accept life like a pair of walking legs. The foot forward has no pride and the foot behind has no shame. Both know their situation will soon change."
 		};
 
 		int index = (int) (Math.random() * quotes.length);
